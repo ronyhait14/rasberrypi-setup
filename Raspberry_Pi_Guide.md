@@ -7,7 +7,7 @@
 ## Introduction
 This guide provides step-by-step instructions for how to set up TensorFlow Lite on the Raspberry Pi and use it to run object detection models. It also shows how to set up the Coral USB Accelerator on the Pi and run Edge TPU detection models. It works for the Raspberry Pi 3 and Raspberry Pi 4 running either Rasbpian Buster or Rasbpian Stretch.
 
-This guide is part of my larger TensorFlow Lite tutorial series which shows how to [train, convert, and run custom TensorFlow Lite object detection models](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi).
+
 
 TensorFlow Lite (TFLite) models run much faster than regular TensorFlow models on the Raspberry Pi. You can see a comparison of framerates obtained using regular TensorFlow, TensorFlow Lite, and Coral USB Accelerator models in my [TensorFlow Lite Performance Comparison YouTube video](https://www.youtube.com/watch?v=TiOKvOrYNII).
 
